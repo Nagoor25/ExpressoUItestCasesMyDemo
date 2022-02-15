@@ -28,8 +28,8 @@ class SecondaryActivityTest{
     @Test
     fun test_isActivity_inView(){
         onView(withId(R.id.secondary)).check(matches(isDisplayed()))//method 1
-
     }
+
     @Test
     fun test_isBackButton_inView(){
         onView(withId(R.id.button_back)).
