@@ -20,8 +20,7 @@ class MainActivityTest{
     fun testNextButton_isInView_or_visible(){
         val activityScenario=ActivityScenario.launch(MainActivity::class.java)
       //  onView(withId(R.id.button_next_activity)).check(matches(isDisplayed()))//method 1
-        onView(withId(R.id.button_next_activity)).
-        check(matches(withEffectiveVisibility(Visibility.VISIBLE))) // method2
+        onView(withId(R.id.button_next_activity)).check(matches(withEffectiveVisibility(Visibility.VISIBLE))) // method2
       onView(withId(R.id.activity_main_title)).check(matches(isDisplayed()))
     }
     @Test

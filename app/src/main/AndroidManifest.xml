@@ -19,10 +19,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<!--
-   <activity android:name=".SecondaryActivity"
+   <activity android:name=".ui.SecondaryActivity"
        android:exported="true"></activity>
--->
     </application>
 
 </manifest>
