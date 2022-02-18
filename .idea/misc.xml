@@ -6,6 +6,8 @@
         <entry key="..\:/Users/ss/AndroidStudioProjects/ExpressoDemo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1125" />
         <entry key="..\:/Users/ss/AndroidStudioProjects/ExpressoDemo/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/ss/AndroidStudioProjects/ExpressoDemo/app/src/main/res/layout/activity_secondary.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/ss/AndroidStudioProjects/ExpressoDemo/app/src/main/res/layout/fragment_directors.xml" value="0.1" />
+        <entry key="..\:/Users/ss/AndroidStudioProjects/ExpressoDemo/app/src/main/res/layout/fragment_movie_detail.xml" value="0.1" />
       </map>
     </option>
   </component>
